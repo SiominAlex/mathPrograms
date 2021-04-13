@@ -1,9 +1,9 @@
 package main
 
 import (
+	"./calculator"
+	"./quadraticEquation"
 	"fmt"
-	"mathPrograms/calculator"
-	"mathPrograms/quadraticEquation"
 	"os"
 )
 
